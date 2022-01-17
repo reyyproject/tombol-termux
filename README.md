@@ -8,7 +8,7 @@ By Wanz Xploit
 <!---[Sumber Coding Source Create Bye]-->
 
 
-####Install
+#### Install
 ```
 pkg install wget
 pkg install git
